@@ -1,5 +1,5 @@
 <template>
-  <div class='outline-box'>
+  <div class='full-box'>
     
   </div>
 </template>
@@ -11,13 +11,12 @@ export default {
 </script>
 
 <style scoped>
-.outline-box {
-    border: 2px solid;
-    border-image-slice: 1;
-    border-image-source: linear-gradient(
+.full-box {
+    background-image: linear-gradient(
         to left,
         #2F80ED,
         #6FCF97
-    );
+    );;
+    size: 100%;
 }
 </style>

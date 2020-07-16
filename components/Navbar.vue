@@ -21,7 +21,9 @@ export default {
     width: 100%;
     display: flex;
     justify-content: flex-end;
-    margin: 10px;
+    overflow: hidden;
+    z-index: 100;
+    position: fixed;
 }
 
 .nav-items {
@@ -34,6 +36,7 @@ export default {
 }
 
 li {
-    margin: 10px;
+    margin-right: 10px;
 }
+
 </style>
