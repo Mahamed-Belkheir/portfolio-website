@@ -1,5 +1,5 @@
 <template>
-    <div class='landing'>
+    <div class='section'>
         <div class="landing-text">
         <Outlinebox class="box3">
         </Outlinebox>
@@ -26,12 +26,7 @@ export default {
 </script>
 
 <style scoped>
-.landing {
-    display: flex;
-    width: 100vw;
-    height: 100vh;
-    /* overflow: hidden; */
-}
+
 .boxes {
     width: 100%;
     height: 100%;
@@ -83,12 +78,13 @@ export default {
 }
 
 .action-btn {
-    background-color: #2D9CDB;
+    background-color: #2DACDB;
     border-radius: 6px;
     color: white;
     text-align: center;
-    width: 60%;
+    width: 50%;
     margin-top: 25px;
+    padding: 10px;
 }
 
 </style>
