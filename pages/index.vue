@@ -2,6 +2,7 @@
   <div class="container">
   <Landing />
   <About />
+  <Experience />
   </div>
 </template>
 
