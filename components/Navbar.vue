@@ -29,7 +29,8 @@ export default {
     width: 30%;
     justify-content: space-around;
     list-style: none;
-    margin-right: 10% ;
+    margin-right: 10%;
+    font-size: 24px;
 }
 
 li {
