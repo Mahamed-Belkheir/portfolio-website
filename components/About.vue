@@ -32,7 +32,8 @@ export default {
 }
 
 .text {
-    width: 50%;
+    width: 65%;
+    font-size: 24px;
 }
 
 .side {

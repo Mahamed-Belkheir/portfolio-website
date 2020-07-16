@@ -28,7 +28,6 @@ export default {
     #6FCF97
     );
     width: 100%;
-    margin-top: -15vw;
     margin-bottom: 5vw;
     margin-left: 10vw;
 }
