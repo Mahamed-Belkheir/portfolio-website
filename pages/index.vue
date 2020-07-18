@@ -3,6 +3,7 @@
   <Landing />
   <About />
   <Experience />
+  <Projects />
   </div>
 </template>
 

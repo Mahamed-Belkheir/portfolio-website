@@ -4,7 +4,7 @@
           <li>About</li>
           <li>Experience</li>
           <li>Projects</li>
-          <li>Blog</li>
+          <!-- <li>Blog</li> -->
           <li>Contact</li>
       </ul>
   </nav>
